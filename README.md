@@ -1,9 +1,5 @@
 # COVID-19 Tweet Natural Language Processing
-<font size="1">Lisa DiSalvo 
-ldisalvo@arcadia.edu 
-Arcadia University
-Computer Science & Math Department
-Class of 2023, Computer Science Major</font> 
+
 Lisa DiSalvo 
 ldisalvo@arcadia.edu 
 Arcadia University
