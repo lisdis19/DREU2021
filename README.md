@@ -7,6 +7,7 @@ Computer Science & Math Department
 Class of 2023, Computer Science Major
 
 Mentor Junyi Jessy Li
+https://jessyli.com/
 jessy@austin.utexas.edu
 Assistant Professor
 Department of Linguistics
