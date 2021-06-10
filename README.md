@@ -1,5 +1,5 @@
 # COVID-19 Tweet Natural Language Processing
-
+![image](https://user-images.githubusercontent.com/69719467/121576299-3ac41980-c9f6-11eb-9cb9-41bb91f687ba.png)
 Lisa DiSalvo 
 ldisalvo@arcadia.edu 
 Arcadia University
