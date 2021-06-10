@@ -35,4 +35,4 @@ The first few steps to my data process is annotating tweets like so:
 ![image](https://user-images.githubusercontent.com/69719467/121575761-bbcee100-c9f5-11eb-95b0-8f6d9e9f5cdb.png)
 
 Then, I am expected to do some more annotating of tweets, but in a more computational manner. I am looking to tokenize words and count the frequency of words in the given tweet dataset. I could also put the words into a data frame and use python pandas to count the frequency of certain buzz 'emotion' words in a tweet dataset. Through the data found in the computerized task, we can make conclusions on the overall 'emotion' attached to COVID-19 related tweets. We can also categorize tweets on what overall emotion they portray. 
-In Weeks Three & Four I can expand on my task findings. 
+In Weeks Three & Four I can expand on my task findings. Overall, these two weeks really focused on introducing the project, introducing myself to my project partners and trying to truly understand what we are looking to do with our dataset and how we can accelerate progress into possibly publishing a paper on COVIDEmo
