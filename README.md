@@ -75,8 +75,8 @@ python train.py --model "bert" --ckpt "ckpt/bert.pt" --tokenizer "bert" --bert_m
 [11:32 AM]
 had to also tweak each command for every emotion I tested on and it was initially very difficult as I had to find each file path for the emotion label files. In the end, it paid off as I received the following results 
     
-    ANGER    ANTICIPATION    DISGUST    FEAR    JOY    SADNESS    SURPRISE    TRUST
-BERT    0.7394    0.8552    0.7365    0.7627    0.85642    0.7812    0.8998    0.8613
+            ANGER   ANTICIPATION    DISGUST FEAR    JOY     SADNESS SURPRISE    TRUST  
+    BERT    0.73            0.85    0.73    0.76    0.85    0.78        0.89    0.86
 
 These results very somewhat outlandish as they are surprisingly high. However, the magic of collaboration allowed for my peers to test on their own machines and receive better more accurate results 
 
