@@ -84,5 +84,4 @@ These results very somewhat outlandish as they are surprisingly high. However, t
 
 This is supposed to be the end of my DREU experience I believe, but I will continue to further collaborate with the team to try and release our paper to research conferences. It will be my first time ever helping prep a research paper for these types of events so it should be an enriching experience. I believe using Bert and Roberta to train and model the past week is great practice for me because I have an internship coming up that involves creating a pipeline and using BERT models. I believe that through my DREU experience I learned to collaborate with a team and learn workflow practices with my peers. I really enjoyed meeting weekly and in each meeting we always had at-least one hour or more to talk about a ton of topics pertaining to our paper.
 
-[Click here for the link to my Final Report](https://docs.google.com/file/d/1qD1toPK3e31-omVvPJtB7ijEfsJ-j1X3/edit?usp=docslist_api&filetype=msword)
-
+[Click here for the link to my Final Report](DREU_Report.docx)
